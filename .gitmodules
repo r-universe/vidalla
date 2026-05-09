@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "forecastADAPT"]
+	path = forecastADAPT
+	url = https://github.com/cran/forecastADAPT
 [submodule "testcorr"]
 	path = testcorr
 	url = https://github.com/cran/testcorr
